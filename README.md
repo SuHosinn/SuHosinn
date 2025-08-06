@@ -7,6 +7,12 @@
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
 </div>
 
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Suhosin's Profile </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> [Education] <br> </li></li>서울과학종합대학원 AI첨단학과 AI빅데이터전공 공학석사 </div> 
+</div>
+    
+
 <div align= "center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
   <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
