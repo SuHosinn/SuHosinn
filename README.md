@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SuHosin's%20Github%20fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SuHosin's%20Github&fontSize=90)
 
 <!--
 **SuHosinn/SuHosinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
