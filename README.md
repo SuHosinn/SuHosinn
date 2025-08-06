@@ -25,12 +25,9 @@
   </div>  <br> 
   <div align= "center">  </div> 
 </div>
-<div align= "center">
-    ![Suhosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuHosinn&show_icons=true&theme=radical)
-</div>
 </div>
 
-  
+![Suhosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuHosinn&show_icons=true&theme=radical)  
 
 <!--
 **SuHosinn/SuHosinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
