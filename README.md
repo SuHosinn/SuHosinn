@@ -33,9 +33,9 @@
 </div>
 </div>
 
-<div align= "center">
-    ![Suhosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuHosinn&show_icons=true&theme=radical) 
-</div>
+
+![Suhosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuHosinn&show_icons=true&theme=radical) 
+
  
 
 <!--
