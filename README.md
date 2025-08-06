@@ -33,7 +33,10 @@
 </div>
 </div>
 
-![Suhosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuHosinn&show_icons=true&theme=radical)  
+<div align= "center">
+    ![Suhosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuHosinn&show_icons=true&theme=radical) 
+</div>
+ 
 
 <!--
 **SuHosinn/SuHosinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
