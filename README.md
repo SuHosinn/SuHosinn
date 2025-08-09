@@ -9,7 +9,11 @@
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Suhosin's Profile </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> [Education] <br> </li></li>서울과학종합대학원 AI첨단학과 AI빅데이터전공 공학석사 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        [Education] 
+        <br> </li></li>서울과학종합대학원 AI첨단학과 AI빅데이터전공 공학석사
+        <br> </li></li>대학교 IT관련 전공 공학사
+    </div> 
 </div>
     
 
